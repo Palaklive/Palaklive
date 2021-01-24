@@ -22,6 +22,7 @@ I'm a UI developer who loves the web elegant code and funky ideas. I am as excit
  </p>
 
 ### Latest writing
+- :rocket: [7 hacks to optimize your react app](https://dev.to/palaklive/7-hacks-to-optimize-your-react-app-27e6)
 - :ear_of_rice: [Functions in JavaScript](https://dev.to/impalaklive/functions-in-javascript-1m8b)
 - :sparkler: [Blind men and an elephant](https://medium.com/@palaklive/blind-men-and-an-elephant-cf41b513d8a2)
 
